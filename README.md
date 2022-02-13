@@ -1,5 +1,7 @@
 # Recorded Earthquakes
 
+This project was developed by [Seyda Nur DEMIR](https://github.com/seydanurdemir) (me) as a job application project for "Java Developer" position of [Adesso](https://www.adesso.com.tr/en/index-3.jsp) company.
+
 Last Update : 14/02/2022 01:30 AM
 
 ## Used API
